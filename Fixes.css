@@ -9,7 +9,11 @@
 }
 /* Forces WinButtons to look better */
 
-
+/* Channel Logo Text */
+.childWrapper-anI2G9{
+  color: var(--default-text-normal)
+}
+/* Channel Logo Text */
 
 :root{
 /* Customs */
