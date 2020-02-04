@@ -9,25 +9,7 @@
 }
 /* Forces WinButtons to look better */
 
-/* Settings Menu Cyan Text Fixes */
-/* == HypeSquad == */
-.introBlurb-3gFgTQ, .perksHeading-3oxU3I, .description-1W0DiL, .primary-jw0I4K, .attendeeCTA-3ZZQWt{
-  color: var(--default-text-normal);
-}
-/* == HypeSquad == */
-/* == Server Boost == */
-.colorStandard-2KCXvj{
-  color: var(--default-text-normal);
-}
 
-/* == Server Boost == */
-
-
-/* == Subscriptions == */
-.sectionDescription-3uMpPK, .marketingRefreshSubtitle-3jft-o, .billingInformation-1MZXzx{
-  color: var(--default-text-normal);
-}
-/* == Subscriptions == */
 
 :root{
 /* Customs */
