@@ -1,20 +1,3 @@
-/* Forces WinButtons to look better */
-.winButton-iRh8-Z{
-    color: cyan;
-    animation: rainbow 3s infinite linear;
-}
-.winButtonClose-1HsbF-:hover{
-    background-color: var(--background-modifier-hover);
-    color: var(--interactive-hover);
-}
-/* Forces WinButtons to look better */
-
-/* Channel Logo Text */
-.childWrapper-anI2G9{
-  color: var(--default-text-normal)
-}
-/* Channel Logo Text */
-
 /* Settings Email Blur */
 .userSettingsAccount-2eMFVR>div>div>div>div:nth-child(2)>div:nth-child(2)>div:nth-child(2):not(:hover):not(.inputWrapper-31_8H8){
   filter: blur(6px);
@@ -35,6 +18,23 @@
 }
 
 /* Compact Search Bar */
+
+/* Forces WinButtons to look better */
+.winButton-iRh8-Z{
+    color: cyan;
+    animation: rainbow 3s infinite linear;
+}
+.winButtonClose-1HsbF-:hover{
+    background-color: var(--background-modifier-hover);
+    color: var(--interactive-hover);
+}
+/* Forces WinButtons to look better */
+
+/* Channel Logo Text */
+.childWrapper-anI2G9{
+  color: var(--default-text-normal)
+}
+/* Channel Logo Text */
 
 :root{
 /* Customs */
