@@ -9,12 +9,11 @@
 }
 /* Forces WinButtons to look better */
 
-/* Settings Email Blur */
-.userSettingsAccount-2eMFVR>div>div>div>div:nth-child(2)>div:nth-child(2)>div:nth-child(2):not(:hover):not(.inputWrapper-31_8H8){
-  filter: blur(6px);
-  transition: filter .15s ease-in-out
+/* Code Block Border Remove */
+.markup-2BOw-j code{
+  border: 1px solid var(--background-secondary);
 }
-/* Settings Email Blur */
+/* Code Block Border Remove */
 
 :root{
 /* Customs */
