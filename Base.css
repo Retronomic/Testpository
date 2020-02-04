@@ -21,9 +21,9 @@
     --interactive-active: #fff; /* Channels with messages */
     --interactive-muted: #4f545c; /* Muted Channels */
     --background-primary: #36393f; /* Controls Background */
-    --background-secondary: #2f3136; /* Controls Channel Background */
-    --background-tertiary: #202225; /* Controls Top and Left Bars */
-    --background-accent: #4f545c;
+    --background-secondary: #ffffff; /* Controls Channel Background */
+    --background-tertiary: #ffffff; /* Controls Top and Left Bars */
+    --background-accent: #ffffff;
     --background-floating: #18191c;
     --background-mobile-header: #2f3136;
     --background-modifier-hover: rgba(79,84,92,0.16);
