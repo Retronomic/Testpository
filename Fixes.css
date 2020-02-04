@@ -9,13 +9,22 @@
 }
 /* Forces WinButtons to look better */
 
-/* Call Avatar Border */
-.callAvatarBorder-uWp8Ga.voice-3bPYC-.speaking-B2MXPi{
-  color: cyan;
-  animation: rainbow 3s infinite linear;
+/* Settings Menu Cyan Text Fixes */
+/* == HypeSquad == */
+.introBlurb-3gFgTQ, .perksHeading-3oxU3I, .description-1W0DiL, .primary-jw0I4K, .attendeeCTA-3ZZQWt{
+  color: var(--default-text-normal);
+}
+/* == HypeSquad == */
+/* == Server Boost == */
+.colorStandard-2KCXvj{
+  color: var(--default-text-normal);
 }
 
-/* Call Avatar Border */
-.lookFilled-1Gx00P.colorRed-1TFJan,.callAvatarBorder-uWp8Ga.video-3SrWSI.speaking-B2MXPi{
-  animation: rainbow 3s infinite linear;
+/* == Server Boost == */
+
+
+/* == Subscriptions == */
+.sectionDescription-3uMpPK, .marketingRefreshSubtitle-3jft-o, .billingInformation-1MZXzx{
+  color: var(--default-text-normal);
 }
+/* == Subscriptions == */
