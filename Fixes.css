@@ -9,9 +9,13 @@
 }
 /* Forces WinButtons to look better */
 
-/* Settings Email Blur */
-.userSettingsAccount-2eMFVR>div>div>div>div:nth-child(2)>div:nth-child(2)>div:nth-child(2):not(:hover):not(.inputWrapper-31_8H8){
-  filter: blur(6px);
-  transition: filter .15s ease-in-out
+/* Call Avatar Border */
+.callAvatarBorder-uWp8Ga.voice-3bPYC-.speaking-B2MXPi{
+  color: cyan;
+  animation: rainbow 3s infinite linear;
 }
-/* Settings Email Blur */
+
+/* Call Avatar Border */
+.lookFilled-1Gx00P.colorRed-1TFJan,.callAvatarBorder-uWp8Ga.video-3SrWSI.speaking-B2MXPi{
+  animation: rainbow 3s infinite linear;
+}
