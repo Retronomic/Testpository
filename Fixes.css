@@ -9,11 +9,7 @@
 }
 /* Forces WinButtons to look better */
 
-/* Code Block Border Remove */
-.markup-2BOw-j code{
-  border: 1px solid var(--background-secondary);
-}
-/* Code Block Border Remove */
+
 
 :root{
 /* Customs */
