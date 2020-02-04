@@ -1,23 +1,4 @@
-/* Settings Email Blur */
-.userSettingsAccount-2eMFVR>div>div>div>div:nth-child(2)>div:nth-child(2)>div:nth-child(2):not(:hover):not(.inputWrapper-31_8H8){
-  filter: blur(6px);
-  transition: filter .15s ease-in-out
-}
-/* Settings Email Blur */
 
-/* Compact Search Bar */
-.searchBar-3dMhjb{
-  /* Orginal Width 144px */
-  transition: .55s ease-in-out;
-  width: 25px;
-  background-color: var(--background-secondary);
-}
-.searchBar-3dMhjb:hover{
-  width: 144px;
-  transition: .55s ease-in-out;
-}
-
-/* Compact Search Bar */
 
 /* Forces WinButtons to look better */
 .winButton-iRh8-Z{
