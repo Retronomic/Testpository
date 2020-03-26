@@ -8,35 +8,26 @@
 
 */
 
-.members-1998pB{
-  z-index: 1;
-}
-.membersWrap-2h-GB4{
-  z-index: 1;
-}
-.content-yTz4x3{
-  z-index: 1;
-}
-.guilds-1SWlCJ{
-  z-index: 1;
-}
 .scroller-2FKFPG{
-  z-index: 1;
+  z-index: -1;
 }
-.scrollerThemed-2oenus{
-  z-index: 1;
-}
-.container-PNkimc{
-  z-index: 0;
+.privateChannels-1nO12o{
+  z-index: -1;
 }
 .sidebar-2K8pFh{
+  z-index: -1;
+}
+.content-98HsJk{
+  z-index: -1;
+}
+.appMount-3lHmkl, body{
+  background: rgba(0, 0, 0, 0);
+}
+.scrollerWrap-2lJEkd{
+  z-index: -1;
+}
+.wrapper-1Rf91z{
   z-index: 0;
-}
-.content-3at_AU{
-  z-index: 1;
-}
-.title-3qD0b-{
-  z-index: 1;
 }
 
 :root{
