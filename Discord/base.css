@@ -8,28 +8,6 @@
 
 */
 
-.scroller-2FKFPG{
-  z-index: -1;
-}
-.privateChannels-1nO12o{
-  z-index: -1;
-}
-.sidebar-2K8pFh{
-  z-index: -1;
-}
-.content-98HsJk{
-  z-index: -1;
-}
-.appMount-3lHmkl, body{
-  background: rgba(0, 0, 0, 0);
-}
-.scrollerWrap-2lJEkd{
-  z-index: -1;
-}
-.wrapper-1Rf91z{
-  z-index: 0;
-}
-
 :root{
   /* Defaults */
   --header-primary: #fff;
