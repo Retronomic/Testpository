@@ -16,7 +16,7 @@
     --header-secondary: #b9bbbe;
     --text-normal: cyan; /* Channel Text, Text Bar */
     --text-muted: #72767d; /* Discord Logo Top Left, Channel Icons, Search Bar, Time of post */
-    --text-link: #f48a00; /* Links 00b0f4 */
+    --text-link: #002efd; /* Links 00b0f4 */
     --channels-default: #8e9297; /* Unselected Channels */
     --interactive-normal: #b9bbbe; /* Server Options, Call buttons, Deafen, Mute */
     --interactive-hover: #dcddde; /* Channel Hover Text */
