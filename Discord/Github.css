@@ -2,3 +2,7 @@
 .button-component[type='submit']{
     background-color: red !important;
 }
+
+.theme-dark{
+    --color-new: #d73a49 !important;
+}
