@@ -1,8 +1,0 @@
-/* Potential Working Theme */
-.button-component[type='submit']{
-    background-color: lime !important;
-}
-
-.theme-dark{
-    --color-new: #d73a49 !important;
-}
