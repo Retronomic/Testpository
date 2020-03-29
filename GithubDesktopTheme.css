@@ -14,5 +14,5 @@
     background: var(--bg-image);
 }
 #desktop-app-contents{
-    background: rgba(0, 0, 0, 0);
+    background: rgba(0, 0, 0, 0.8);
 }
