@@ -1,6 +1,6 @@
 /* Potential Working Theme */
 .button-component[type='submit']{
-    background-color: red !important;
+    background-color: lime !important;
 }
 
 .theme-dark{
