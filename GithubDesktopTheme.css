@@ -1,5 +1,5 @@
 :root{
-    --bg-image: #ffffff;
+    --bg-image: url('https://i.imgur.com/B01Cd25.jpg');
 }
 .button-component[type='submit']{
     background-color: rgba(0, 0, 0, 0.8) !important;
@@ -12,4 +12,7 @@
 }
 #desktop-app-container{
     background: var(--bg-image);
+}
+#desktop-app-contents{
+    background: rgba(0, 0, 0, 0);
 }
