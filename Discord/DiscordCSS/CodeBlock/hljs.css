@@ -76,6 +76,14 @@ body #app-mount .da-container .da-markup pre .hljs[class$="hljs"]::before {
   --codeblockcolor: #81c529;
 }
 
+
+/* New */
+.hljs[class~=c i]::before{
+  content: "C";
+  --codeblockcolor: #f4b41c;
+}
+/* New */
+
 .hljs[class~=cs i]::before,
 .hljs[class~=csharp i]::before {
   content: "C#";
