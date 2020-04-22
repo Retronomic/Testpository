@@ -12,3 +12,29 @@
 .theme-dark .tiles-2aXG_k{
   background: rgba(0, 0, 0, 0.4)
 }
+
+/* Add Server Fix */
+.theme-light .scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG{
+  background: rgba(0, 0, 0, 0) !important;
+}
+.wrapper-2ZbzR9.theme-light{
+  background: rgba(0, 0, 0, 0.6);
+}
+.header-3ZP1MY{
+  color: White;
+}
+.backdropWithLayer-3_uhz4{
+  background: rgba(0, 0, 0, .5) !important;
+}
+.theme-light .action-1lSjCi{
+  background: rgba(0, 0, 0, 0.4);
+}
+.colorStandard-2KCXvj{
+  color: white;
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY{
+  background: rgba(0, 0, 0, 0.1);
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY:hover{
+  background: rgba(77, 77, 77, 0.1);
+}
