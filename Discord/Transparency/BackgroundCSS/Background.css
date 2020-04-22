@@ -7,3 +7,8 @@
 .container-16j22k, .fixClipping-3qAKRb, .da-fixClipping{
     background: var(--bg-image);
 } 
+
+/* Screen Share Fix */
+.theme-dark .tiles-2aXG_k{
+  background: rgba(0, 0, 0, 0.4)
+}
