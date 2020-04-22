@@ -1,3 +1,9 @@
+/* Background */
 .bg-h5JY_x{
+  background: var(--bg-image);
+}
+
+
+.container-16j22k, .fixClipping-3qAKRb, .da-fixClipping{
     background: var(--bg-image);
-  }
+} 
