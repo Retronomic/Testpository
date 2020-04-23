@@ -3,7 +3,7 @@
     display: none;
 }
 
-/* Scroll Bar Fix */
+/* Remove Scroll Bar */
 #app-mount :not(:hover).scroller-2FKFPG::-webkit-scrollbar-thumb {
   background-color: transparent !important;
 }
@@ -11,13 +11,13 @@
 .scrollbarGhostHairline-1mSOM1::-webkit-scrollbar {
   width: 0px !important;
 }
-/* Scroll Bar Fix */
 
+/* Forces Server/Settings Sidebar Left */
 .sidebarRegion-VFTUkN, .sidebarRegionScroller-3MXcoP{
   justify-content: unset !important;
 }
 
-/* Info for Themes */
+/* Theme Info Above BD Info */
 .info-1VyQPT::Before{
   font-size: 12px;
   color: #72767D;
