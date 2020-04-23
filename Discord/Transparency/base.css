@@ -6,11 +6,12 @@
   
 /* Scroll Bar Fix */
 #app-mount :not(:hover).scroller-2FKFPG::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.4) !important;
-}
+    background-color: transparent !important;
+
+ }
 .scroller-2FKFPG::-webkit-scrollbar,
 .scrollbarGhostHairline-1mSOM1::-webkit-scrollbar {
-  width: 0px !important;
+   width: 0px !important;
 }
 /* Scroll Bar Fix */  
   
