@@ -21,20 +21,20 @@
 
 /* Info for Themes */
 .info-1VyQPT::Before{
-    font-size: 12px;
-    color: #72767D;
-    content: var(--Theme-Info);
-  }
-  .info-1VyQPT::After{
-    content: "";
-    font-size: 12px;
-    color: #72767D;
-  }
-  .userPopout-3XzG_A .wrapper-3t9DeA::after{
-    z-index: -1;
-  }
-  .sidebar-CFHs9e{
-    width: auto;
-    position: left !important;
-    padding-right: -90px;
-  }
+  font-size: 12px;
+  color: #72767D;
+  content: var(--Theme-Info);
+}
+.info-1VyQPT::After{
+  content: "";
+  font-size: 12px;
+  color: #72767D;
+}
+.userPopout-3XzG_A .wrapper-3t9DeA::after{
+  z-index: -1;
+}
+.sidebar-CFHs9e{
+  width: auto;
+  position: left !important;
+  padding-right: -90px;
+}
