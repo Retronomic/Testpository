@@ -1,0 +1,4 @@
+/* Remove Gif Picker and Send a gift */
+[aria-label="Open GIF picker"], [aria-label="Send a gift"] {
+    display: none;
+  } 
