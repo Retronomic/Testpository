@@ -76,7 +76,6 @@ body #app-mount .da-container .da-markup pre .hljs[class$="hljs"]::before {
   --codeblockcolor: #81c529;
 }
 
-
 /* New */
 .hljs[class~=c i]::before{
   content: "C";
@@ -120,6 +119,13 @@ body #app-mount .da-container .da-markup pre .hljs[class$="hljs"]::before {
   content: "NGINX";
   --codeblockcolor: #4bd1a9;
 }
+
+/* New */
+.hljs[class~=pl i]::before {
+  content: "Perl";
+  --codeblockcolor: #a462d0;
+}
+/* New */
 
 .hljs[class~=perl i]::before {
   content: "Perl";
