@@ -36,3 +36,22 @@
   position: left !important;
   padding-right: -90px;
 }
+
+/* Forces WinButtons to act the same */
+.winButton-iRh8-Z{
+  color: white;
+  opacity: .5;
+}
+.winButton-iRh8-Z:hover{
+transition: 0.3s ease-in-out;
+opacity: 1;
+}
+
+.form-2fGMdU{
+background-color: var(--background-primary);
+}
+
+.winButtonClose-1HsbF-:hover{
+  background-color: var(--background-modifier-hover);
+  color: var(--interactive-hover);
+}
