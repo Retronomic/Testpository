@@ -12,6 +12,11 @@
   width: 0px !important;
 }
 
+/* User Bar */
+.container-3baos1{
+  background: cyan !important;
+}
+
 /* Forces Server/Settings Sidebar Left */
 .sidebarRegion-VFTUkN, .sidebarRegionScroller-3MXcoP{
   justify-content: unset !important;
