@@ -1,1 +1,18 @@
+:root{
+    --bg-image: url('https://i.imgur.com/B01Cd25.jpg');
+}
+.button-component[type='submit']{
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    border: 1px solid rgba(0, 0, 0, 0.8) !important;
+}
+
+/* Top Tool Bar */
+#desktop-app-toolbar{
+    background: rgba(0, 0, 0, 0.4);
+}
+#desktop-app-container{
     background: var(--bg-image);
+}
+#desktop-app-contents{
+    background: rgba(0, 0, 0, 0.8);
+}
