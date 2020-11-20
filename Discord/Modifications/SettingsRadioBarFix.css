@@ -15,7 +15,12 @@
 .radioBar-bMNUI- circle {display:none}
 .radioBar-bMNUI- {border:solid 1px var(--background-tertiary);background:var(--deprecated-card-editable-bg)}
 .radioBar-bMNUI- {--radio-bar-accent-color:#7289da}
-[aria-checked="true"]>.radioBar-bMNUI- {background:var(--radio-bar-accent-color);border-color:var(--radio-bar-accent-color)}
+[aria-checked="true"]>.radioBar-bMNUI- {background:none;border-color:none}
 [aria-checked="true"]>.radioBar-bMNUI- {--radio-bar-accent-color:#7289da}
 [aria-checked="false"]>.radioBar-bMNUI- .size14-e6ZScH {color:var(--interactive-normal)}
 [aria-checked="false"]>.radioBar-bMNUI-  {--radio-bar-accent-color:var(--interactive-active)}
+
+
+.radioBar-bMNUI-{
+  border-left: 3px solid var(--radio-bar-accent-color);
+}
